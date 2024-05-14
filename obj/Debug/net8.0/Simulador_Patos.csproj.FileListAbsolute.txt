@@ -1,0 +1,14 @@
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\bin\Debug\net8.0\Simulador_Patos.exe
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\bin\Debug\net8.0\Simulador_Patos.deps.json
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\bin\Debug\net8.0\Simulador_Patos.runtimeconfig.json
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\bin\Debug\net8.0\Simulador_Patos.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\bin\Debug\net8.0\Simulador_Patos.pdb
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\obj\Debug\net8.0\Simulador_Patos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\obj\Debug\net8.0\Simulador_Patos.AssemblyInfoInputs.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\obj\Debug\net8.0\Simulador_Patos.AssemblyInfo.cs
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\obj\Debug\net8.0\Simulador_Patos.csproj.CoreCompileInputs.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\obj\Debug\net8.0\Simulador_Patos.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\obj\Debug\net8.0\refint\Simulador_Patos.dll
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\obj\Debug\net8.0\Simulador_Patos.pdb
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\obj\Debug\net8.0\Simulador_Patos.genruntimeconfig.cache
+C:\Cursos\Sistema de informação\1_2024\Diciplinas\POO\Simulador_Patos\obj\Debug\net8.0\ref\Simulador_Patos.dll
